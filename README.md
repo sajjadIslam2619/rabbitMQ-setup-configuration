@@ -15,6 +15,6 @@ There might be some windows specific issue. Check this link : https://www.rabbit
 2. Check in the browser : http://localhost:15672/ (user: guest, pass: guest)
 you can also visit : https://www.rabbitmq.com/management.html
 
-# sample "Hello World" project in java : 
+# Sample "Hello World" project in java : 
 1. https://www.rabbitmq.com/tutorials/tutorial-one-java.html
 
